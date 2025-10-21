@@ -1,1 +1,2 @@
-print("hi June")
+for _ in range(2):
+    print("hi June")
